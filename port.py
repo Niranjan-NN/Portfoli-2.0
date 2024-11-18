@@ -49,12 +49,59 @@ st.write("""
     [View Project](#)
 """)
 
+# Internship Section
+st.header('💼 Internships')
+
+# Internship 1: Data Scientist (Intern) at CodTech IT Solutions
+st.subheader('🔬 Data Scientist (Intern) at CodTech IT Solutions')
+st.write("""
+    - **Duration:** Jun-2024 - Jul-2024
+    - **Responsibilities:**
+      - Engaged in learning data analysis and machine learning concepts using Python and relevant libraries.
+      - Explored techniques for data visualization and predictive modeling, gaining insights into the practical applications of data science in business contexts.
+      - Collaborated with team members to understand project workflows and best practices in data-driven decision-making.
+    - **Technologies Used:** Python, Jupyter Notebook, Python Libraries
+""")
+
+# Internship 2: Full Stack Developer (Intern) at Web-Gen
+st.subheader('💻 Full Stack Developer (Intern) at Web-Gen')
+st.write("""
+    - **Duration:** Jul-2024 - Aug-2024
+    - **Responsibilities:**
+      - Developed and maintained web applications using JavaScript, React.js, and Node.js.
+      - Designed and implemented RESTful APIs for data communication.
+      - Collaborated with cross-functional teams to deliver high-quality software products on schedule.
+    - **Technologies Used:** Python, Node.js, MongoDB, Apache
+""")
+
+# Internship 3: Data Scientist (Intern) at CodSoft
+st.subheader('🔬 Data Scientist (Intern) at CodSoft')
+st.write("""
+    - **Duration:** Aug-2024 - Sep-2024
+    - **Responsibilities:**
+      - Focused on understanding core data science principles, including data analysis and machine learning methodologies.
+      - Participated in hands-on learning sessions that covered data visualization techniques and model development.
+      - Gained insights into real-world data applications and contributed to discussions on improving data-driven strategies within the organization.
+    - **Technologies Used:** Azure, PowerBI, Excel, OpenCV
+""")
+
+# Internship 4: Artificial Intelligence Trainee at SNS InnovationHub
+st.subheader('🤖 Artificial Intelligence Trainee at SNS InnovationHub')
+st.write("""
+    - **Duration:** Sept-2024 - Oct-2024
+    - **Responsibilities:**
+      - Focused on understanding core data engineering principles, including data regression, clustering, and machine learning methodologies.
+      - Participated in hands-on learning sessions that covered data visualization techniques and model development.
+      - Gained insights into real-world data applications and contributed to discussions on improving data-driven strategies within the organization.
+    - **Technologies Used:** Azure, PowerBI, Databricks
+""")
+
 # Contact Section
 st.header('📞 Contact')
 st.write("""
 Feel free to reach out to me if you'd like to collaborate or have any questions!
 
-- **Phone.No:** +91 99444-56377 📞         
+- **Ph.no:** +91 99444-56377 📞
 - **Email:** niranjan87901@gmail.com 📧
 - **LinkedIn:** [linkedin.com/in/niranjan](https://www.linkedin.com/in/niranjan-nn/) 🔗
 """)
