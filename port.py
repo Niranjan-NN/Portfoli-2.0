@@ -49,6 +49,23 @@ st.write("""
     [View Project](#)
 """)
 
+# Patents Section
+st.header('🔑 Patents')
+
+# Patents Details
+st.write("""
+    I am proud to have contributed to the following patents:
+
+    - **AQUACULTURE WATER MANAGEMENT SYSTEM** 💧
+      - A system designed to improve water quality and sustainability in aquaculture through innovative technology.
+
+    - **FieastaIndiana** 🏨
+      - A tourism and hotel booking system that aims to enhance the user experience for travelers, providing access to various services in one platform.
+
+    - **InnerPeaceAI** 💬
+      - A chatbot designed to assist individuals in managing stress and anxiety through personalized guidance and resources.
+""")
+
 # Internship Section
 st.header('💼 Internships')
 
