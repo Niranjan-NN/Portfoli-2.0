@@ -34,7 +34,7 @@ st.write("""
 st.subheader('🏨 FieastaIndiana')
 st.write("""
     FieastaIndiana is a tourism website built with **HTML**, **CSS**, **JavaScript**, and **Firebase** that helps users book hotels, tourist guides, food, and other services.
-    [View Project](#)
+    [View Project](https://niranjan-nn.github.io/fieastaindiana/)
 """)
 
 st.subheader('💬 InnerPeaceAI')
