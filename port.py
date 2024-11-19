@@ -40,7 +40,7 @@ st.write("""
 st.subheader('💬 InnerPeaceAI')
 st.write("""
     InnerPeaceAI is a chatbot built using **React.js**, **Dialogflow**, and **MongoDB** designed to help users reduce stress and manage anxiety.
-    [View Project](#)
+    [View Project](https://innerpeaceai-fwybrfxj7jrzacwz7jb6gv.streamlit.app/)
 """)
 
 st.subheader('🖼️ Aara')
